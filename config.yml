@@ -1,0 +1,5 @@
+broker: 'redis://pass@ip:port'
+default_queue: machinery_tasks
+
+result_backend: 'mongodb://ip:port'
+#result_backend: 'redis://pass@ip:port'

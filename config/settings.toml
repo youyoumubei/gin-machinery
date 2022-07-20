@@ -1,0 +1,8 @@
+config_path = "./config.yml"
+app_port = 18758
+
+task_redis_host = "ip"
+task_redis_port = 6380
+task_redis_password = "pass"
+task_redis_db = 0
+task_redis_pool_size = 20
